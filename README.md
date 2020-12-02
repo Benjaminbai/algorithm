@@ -6,3 +6,7 @@ algorithm best practice for everyday
 2. 翻转对（归并算法）
 
 3. 三角形周长最大值（贪心算法）
+
+4. 重构字符串
+
+5. 取初始位置和结束位置(二分法)
