@@ -10,3 +10,5 @@ algorithm best practice for everyday
 4. 重构字符串
 
 5. 取初始位置和结束位置(二分法)
+
+6. 计数质数
